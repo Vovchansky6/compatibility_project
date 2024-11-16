@@ -1,3 +1,4 @@
+открыть папку flask 
 Запустите Python-алгоритм (порт 5002):
 
 python algorithm.py
